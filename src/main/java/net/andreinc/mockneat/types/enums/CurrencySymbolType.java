@@ -45,7 +45,7 @@ public enum CurrencySymbolType {
     COSTA_RICA_COLON("Colon", "CRC", "₡"),
     CROATIA_KUNA("Kuna", "HRK", "kn"),
     CUBA_PESO("Peso", "CUP", "₱"),
-    CZECH_REPUBLIC_KORUNA("Koruna", "CZK", "Kč"),
+    CZECH_REPUBLIC_KORUNA("Koruna", "CZK", "KC"),
     DENMARK_KRONE("Krone", "DKK", "kr"),
     DOMINICAN_REPUBLIC_PESO("Peso", "DOP", "RD$"),
     EAST_CARIBBEAN_DOLLAR("Dollar", "XCD", "$"),
